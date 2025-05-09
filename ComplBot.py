@@ -16,7 +16,7 @@ from telegram.ext import (
     CallbackQueryHandler,
 )
 
-BOT_TOKEN = '7107502057:AAFuiE61PplT_EXScOY6L9SyjtteGYZASns'
+BOT_TOKEN = 'YOUR_BOT_TOKEN'
 
 # Настройка логирования
 logging.basicConfig(
